@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "node index.test | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauanberndt/QA01.git"
+  },
+  "author": "kauan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kauanberndt/QA01/issues"
+  },
+  "homepage": "https://github.com/kauanberndt/QA01#readme",
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.5.3"
+  }
+}
