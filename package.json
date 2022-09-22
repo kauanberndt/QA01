@@ -18,6 +18,6 @@
   "homepage": "https://github.com/kauanberndt/QA01#readme",
   "dependencies": {
     "tap-spec": "^5.0.0",
-    "tape": "^5.5.3"
+    "tape": "^5.6.1"
   }
 }
